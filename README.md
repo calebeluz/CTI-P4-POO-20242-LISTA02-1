@@ -1,5 +1,5 @@
 # CTI-P4-POO-20242-LISTA02
-Dedicado as atividades de POO, da lista 2
+Dedicado as atividades de POO do capítulo 4, da lista 2
 ---
 
 # CTI-P4-POO-20242-LISTA01
