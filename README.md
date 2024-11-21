@@ -101,9 +101,7 @@ Para executar os exercícios, siga os seguintes passos:
 [Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE20/src/br/edu/principal/Principal.java)
 
 ### EXE21 - Cálculo de Carga e Imposto
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C
-
-3%8DCIOS-RESOLVIDOS/EXE21/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE21/src/br/edu/principal/Principal.java)
 
 ### EXE22 - Cálculo de Desconto
 [Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE22/src/br/edu/principal/Principal.java)
