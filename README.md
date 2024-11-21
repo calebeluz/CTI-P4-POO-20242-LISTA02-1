@@ -1,6 +1,8 @@
 # CTI-P4-POO-20242-LISTA02
 Dedicado as atividades de POO, da lista 2
-# CTI-P4-POO-20242-LISTA02
+---
+
+# CTI-P4-POO-20242-LISTA01
 
 ## Atividades de Programação Orientada a Objetos (POO) - Java
 
@@ -8,109 +10,112 @@ Este repositório contém as soluções de 25 questões de **Programação Orien
 
 ## Descrição
 
-Este repositório visa fornecer aos alunos um ambiente organizado para resolver problemas utilizando os conceitos fundamentais de **Programação Orientada a Objetos (POO)**. A proposta das atividades é praticar a estruturação e organização do código através do uso de classes, objetos, atributos e métodos. O foco está na resolução de problemas matemáticos simples, como soma, subtração, multiplicação e divisão, mas que exigem a aplicação de conceitos de POO para serem resolvidos de maneira eficiente e organizada.
+Este repositório visa fornecer aos alunos um ambiente organizado para resolver problemas utilizando os conceitos fundamentais de **Programação Orientada a Objetos (POO)** em Java. O objetivo das atividades é aplicar conceitos de organização de código, classes, objetos, atributos e métodos, promovendo o aprendizado de boas práticas em desenvolvimento de software.
 
-**Programação Orientada a Objetos** (POO) é um paradigma de programação que organiza o código em torno de "objetos", que são instâncias de "classes". Cada objeto possui atributos (características) e métodos (ações), o que torna o código mais modular e reutilizável. Ao aprender POO, você passa a criar soluções de maneira mais estruturada e escalável.
+A **Programação Orientada a Objetos (POO)** é uma metodologia que organiza o código em "objetos", cada um com suas responsabilidades, permitindo uma estrutura mais limpa, modular e reutilizável. Cada exercício foi desenvolvido para ajudar os alunos a entender como aplicar esses conceitos para resolver problemas de lógica e matemática.
 
-## Objetivos
+## Como usar
 
-O principal objetivo deste repositório é proporcionar uma plataforma de aprendizado para aqueles que estão começando a estudar **POO** e **Java**. Através da resolução de problemas matemáticos utilizando POO, você aprenderá a:
-- Criar e utilizar classes e objetos.
-- Organizar e estruturar o código de maneira modular.
-- Aplicar conceitos de **encapsulamento**, **herança** e **polimorfismo** (dependendo do exercício).
-- Melhorar a legibilidade, reutilização e manutenção do código.
+Para executar os exercícios, siga os seguintes passos:
 
-## Como Usar
+1. **Baixe e instale o Eclipse IDE**:
+   - Faça o download do Eclipse em [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
+   - Instale o Eclipse em seu computador.
 
-Para utilizar este repositório e resolver as questões de maneira eficaz, siga os passos abaixo.
+2. **Crie um novo projeto no Eclipse**:
+   - Abra o Eclipse e selecione **File > New > Java Project**.
+   - Dê um nome ao projeto (por exemplo, `POO-Lista01`).
 
-### 1. **Instalar o Eclipse IDE**
+3. **Crie o pacote e a classe**:
+   - Clique com o botão direito sobre o `src` do seu projeto e selecione **New > Package**.
+   - Nomeie o pacote como `br.edu.principal`.
+   - Em seguida, clique com o botão direito no pacote `br.edu.principal` e selecione **New > Class**.
+   - Nomeie a classe como `Principal`.
 
-Antes de começar, você precisará de um ambiente de desenvolvimento integrado (IDE). A recomendação é usar o **Eclipse**, uma das IDEs mais populares para Java. Para instalar o Eclipse:
+4. **Copie e cole o código da questão correspondente**:
+   - Acesse o exercício desejado e copie o código da classe `Principal` para o arquivo criado.
 
-- Acesse o site oficial do Eclipse: [Eclipse Downloads](https://www.eclipse.org/downloads/).
-- Baixe e instale a versão mais recente do Eclipse IDE para Java Developers.
+5. **Execute o código**:
+   - Após colar o código, clique com o botão direito na classe `Principal` e selecione **Run As > Java Application** para ver o resultado da execução.
 
-### 2. **Criar um Novo Projeto Java para Cada Questão**
+## Exercícios Resolvidos
 
-Após instalar o Eclipse, siga os passos abaixo para criar um projeto para cada questão da lista:
+### EXE01 - Média Ponderada e Conceito
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
 
-1. Abra o **Eclipse** e vá para **File** → **New** → **Java Project**.
-2. Nomeie o seu projeto com base no número da questão, como por exemplo:
-   - **EXE01** para a primeira questão,
-   - **EXE02** para a segunda, e assim por diante.
-3. Após criar o projeto, você verá uma estrutura de pasta na barra lateral do Eclipse.
+### EXE02 - Média Aritmética e Situação
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
 
-### 3. **Criar o Pacote de Classe**
+### EXE03 - Maior de Dois Números
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
 
-Em cada projeto criado, crie um pacote para organizar o código:
+### EXE04 - Ordem Crescente
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
 
-1. Clique com o botão direito na pasta **src** dentro do seu projeto.
-2. Selecione **New** → **Package**.
-3. Nomeie o pacote como `br.edu.Principal` (ou qualquer nome que seja conveniente).
-4. Dentro do pacote, você criará a classe que resolverá o problema.
+### EXE05 - Ordem Decrescente
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
 
-### 4. **Criar a Classe Principal**
+### EXE06 - Par ou Ímpar
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
 
-Para cada questão, você criará uma classe chamada **Principal** para implementar a solução:
+### EXE07 - Ordenação de Números
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
 
-1. Clique com o botão direito no pacote `br.edu.Principal` e selecione **New** → **Class**.
-2. Nomeie a classe como **Principal**.
-3. Marque a opção **public static void main(String[] args)** para que o método principal seja automaticamente gerado. Esse método é onde o código começa a execução.
+### EXE08 - Menu de Operações
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
 
-### 5. **Adicionar o Código**
+### EXE09 - Data e Hora
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
 
-Dentro de cada classe **Principal**, adicione o código correspondente à resolução do problema de cada questão. Certifique-se de que a implementação do código esteja clara e funcional. O código deve estar dentro do método **main**, ou seja, dentro da classe que você criou.
+### EXE10 - Maior Data
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
 
-### 6. **Executar o Programa**
+### EXE11 - Duração de Jogo
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE11/src/br/edu/principal/Principal.java)
 
-Para executar o programa, siga estas etapas:
+### EXE12 - Cargo e Aumento
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE12/src/br/edu/principal/Principal.java)
 
-1. Clique com o botão direito na classe **Principal**.
-2. Selecione **Run As** → **Java Application**.
-3. O **Eclipse** executará o programa e exibirá os resultados na janela **Console**.
+### EXE13 - Menu de Salário
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE13/src/br/edu/principal/Principal.java)
 
-### 7. **Verificar a Saída**
+### EXE14 - Salário com Bonificação
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE14/src/br/edu/principal/Principal.java)
 
-Após executar o programa, a saída será mostrada na **Console** do Eclipse. Verifique se o resultado corresponde ao esperado. Caso contrário, revise seu código para identificar possíveis erros.
+### EXE15 - Cálculo de Salário
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE15/src/br/edu/principal/Principal.java)
 
----
+### EXE16 - Ajuste de Preços
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE16/src/br/edu/principal/Principal.java)
 
-## Estrutura do Repositório
+### EXE17 - Equação do 2º Grau
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE17/src/br/edu/principal/Principal.java)
 
-Cada questão tem seu próprio projeto. Abaixo, você encontrará os links para cada exercício com a respectiva descrição e código de implementação. Para cada exercício, siga as instruções de uso do **README** para configurar corretamente o ambiente de desenvolvimento.
+### EXE18 - Tipos de Triângulos
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE18/src/br/edu/principal/Principal.java)
 
-- [EXE01](EXE01)
-- [EXE02](EXE02)
-- [EXE03](EXE03)
-- [EXE04](EXE04)
-- [EXE05](EXE05)
-- [EXE06](EXE06)
-- [EXE07](EXE07)
-- [EXE08](EXE08)
-- [EXE09](EXE09)
-- [EXE10](EXE10)
-- [EXE11](EXE11)
-- [EXE12](EXE12)
-- [EXE13](EXE13)
-- [EXE14](EXE14)
-- [EXE15](EXE15)
-- [EXE16](EXE16)
-- [EXE17](EXE17)
-- [EXE18](EXE18)
-- [EXE19](EXE19)
-- [EXE20](EXE20)
-- [EXE21](EXE21)
-- [EXE22](EXE22)
-- [EXE23](EXE23)
-- [EXE24](EXE24)
-- [EXE25](EXE25)
+### EXE19 - Classificação de Peso e Altura
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE19/src/br/edu/principal/Principal.java)
 
----
+### EXE20 - Cálculo de Impostos
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE20/src/br/edu/principal/Principal.java)
 
-## Licença
+### EXE21 - Cálculo de Carga e Imposto
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C
 
-Este repositório está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+3%8DCIOS-RESOLVIDOS/EXE21/src/br/edu/principal/Principal.java)
+
+### EXE22 - Cálculo de Desconto
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE22/src/br/edu/principal/Principal.java)
+
+### EXE23 - Conversão de Temperatura
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE23/src/br/edu/principal/Principal.java)
+
+### EXE24 - Cálculo de Fatorial
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE24/src/br/edu/principal/Principal.java)
+
+### EXE25 - Sequência de Fibonacci
+[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE25/src/br/edu/principal/Principal.java)
 
 ---
 
